@@ -1,0 +1,22 @@
+body {
+	background-color: #015289;
+}
+
+.header-1 {
+	padding: 50px 0px;
+}
+
+.social-media > a {
+	font-size: 2rem;
+	color: #fff;
+	margin-top: 20px;
+	padding: 20px;
+}
+
+.header-1 , .principal {
+	margin-top: 5px;
+}
+
+.link-portada > a {
+	color: white;
+}
