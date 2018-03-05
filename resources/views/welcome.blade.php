@@ -5,7 +5,7 @@
     <title>Geny Paratriatlon</title>
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
-    <link rel="shortcut icon" href="img/geny.ico" />
+    <link rel="shortcut icon" href="img/Geny.ico" />
     
     {{-- bootstrap --}}
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -27,15 +27,58 @@
                     <a href="https://www.instagram.com/juanmanuelgeny/" class="fa fa-instagram" target="new"></a>
                 </div>        
     </section>
+    
     <section class="container text-center">
                 <div class="link-portada" ">
-                    <a href="https://www.triathlon.org/athletes/profile/22141/juan_manuel_geny"><h3>Perfil ITU</h3></a>
+                    <a href="https://www.triathlon.org/athletes/profile/22141/juan_manuel_geny">Perfil ITU</a>
                 </div> 
                 <div class="link-portada" ">
                     <a href="mailto:juanmanuel.geny@gmail.com" 
-                    target="new"><h3>juanmanuel.geny@gmail.com</h3></a>
+                    target="new">juanmanuel.geny@gmail.com</a>
                 </div>
     </section>
+    
+     <!-- Marketing Icons Section -->
+<section class="container">
+    <h1>Noticias</h1>
+      <section class="row">
+        <article class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">Más oportunidades de clasificación en 2018</h4>
+            <div class="card-body">
+              {{-- <p class="card-text">La ITU se complace en anunciar nuevas oportunidades de clasificación para los atletas en 2018</p> --}}
+              <img src="/img/roterdam.jpg" alt="Roterdam">
+            </div>
+            <div class="card-footer">
+              <a href="https://www.triathlon.org/news/article/itu_announces_more_classification_opportunities_for_2018/es" class="btn btn-primary" target="new">Ver Mas</a>
+            </div>
+          </div>
+        </article>
+        <article class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">Los paratriatletas brillaron en Devonport</h4>
+            <div class="card-body">
+              <img src="/img/devonport_winners.jpg" alt="ganadores">
+            </div>
+            <div class="card-footer">
+              <a href="https://www.triathlon.org/news/article/aussie_paratriathletes_shine_in_devonport_pwc/es" class="btn btn-primary" target="new">Ver Mas</a>
+            </div>
+          </div>
+        </article>
+        <article class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">Cifra récord del Paratriatlón en Devonport</h4>
+            <div class="card-body">
+              <img src="/img/roterdam2.jpg" alt="roterdam2">
+            </div>
+            <div class="card-footer">
+              <a href="https://www.triathlon.org/news/article/devonport_preview/es" class="btn btn-primary" target="new">Ver Mas</a>
+            </div>
+          </div>
+        </article>
+      </section>
+</section>      
+      <!-- /.row -->
 
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

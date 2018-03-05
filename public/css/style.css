@@ -3,13 +3,13 @@ body {
 }
 
 .header-1 {
-	padding: 50px 0px;
+	padding:20px 0px;
 }
 
 .social-media > a {
 	font-size: 2rem;
 	color: #fff;
-	margin-top: 20px;
+	margin-top: 10px;
 	padding: 20px;
 }
 
@@ -19,4 +19,26 @@ body {
 
 .link-portada > a {
 	color: white;
+	font-size: 1.5rem;
 }
+/*
+.noticia {
+	margin-bottom: 5px;
+}
+
+.panel-heading{
+	background-color: #e6e1e1;
+	height: 85px;
+	border-radius: 5px;
+}
+.panel-body {
+	background-color: none;
+	text-align: left;
+	color: black;
+	min-height: 120px;
+}
+.panel-footer {
+	background-color: #e6e1e1;
+	border-radius: 5px;
+}*/
+
