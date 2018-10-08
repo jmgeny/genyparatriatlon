@@ -1,5 +1,6 @@
 body {
-	background-color: #015289;
+	background-color: #9AFE2E;
+	position: relative; 
 }
 
 .header-1 {
@@ -21,24 +22,15 @@ body {
 	color: white;
 	font-size: 1.5rem;
 }
-/*
-.noticia {
-	margin-bottom: 5px;
-}
 
-.panel-heading{
-	background-color: #e6e1e1;
-	height: 85px;
-	border-radius: 5px;
-}
-.panel-body {
-	background-color: none;
-	text-align: left;
-	color: black;
-	min-height: 120px;
-}
-.panel-footer {
-	background-color: #e6e1e1;
-	border-radius: 5px;
-}*/
+  #section1 {background-color: #1E88E5;}
+  #section2 {background-color: #673ab7;}
+  #section3 {background-color: #ff9800;}
+  #section41 {background-color: #00bcd4;}
+  #section42 {background-color: #009688;}
 
+  .sec_principal {
+  	padding-top:50px;
+  	height:400px;
+  	color: #fff;
+  }
