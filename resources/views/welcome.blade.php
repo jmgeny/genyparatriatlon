@@ -56,7 +56,7 @@
         </article>
         <article class="col-lg-4 mb-4">
           <div class="card h-100">
-            <h4 class="card-header">Los paratriatletas brillaron en Devonport</h4>
+            <h4 class="card-header">Los paratriatletas brillaron en DevonporTV</h4>
             <div class="card-body">
               <img src="/img/devonport_winners.jpg" alt="ganadores">
             </div>

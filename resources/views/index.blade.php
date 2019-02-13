@@ -5,10 +5,12 @@
     @include('navbar')
     <!-- Header -->
     @include('header')
+    {{-- sponsor --}}
+    @include('sponsor')
     <!-- Portfolio -->
     @include('portfolio')
     {{-- About --}}
-    {{-- @include('about') --}}
+    @include('about')
     <!-- Contact Section -->
     @include('contact')
     <!-- Footer -->

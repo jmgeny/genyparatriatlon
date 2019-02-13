@@ -4,18 +4,18 @@
                   <i class="fa fa-fw fa-facebook"></i>
                 </a>
               </li>
-{{--               <li class="list-inline-item">
-                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
-                  <i class="fa fa-fw fa-google-plus"></i>
-                </a>
-              </li> --}}
               <li class="list-inline-item">
-                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://twitter.com/">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="http://instagram.com/juanmanuelgeny">
+                  <i class="fa fa-instagram"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://twitter.com/paratriatlon">
                   <i class="fa fa-fw fa-twitter"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://linkedin.com/">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://linkedin.com/juanmageny">
                   <i class="fa fa-fw fa-linkedin"></i>
                 </a>
               </li>
