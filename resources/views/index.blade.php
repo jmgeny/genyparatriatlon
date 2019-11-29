@@ -8,11 +8,11 @@
     {{-- sponsor --}}
     @include('sponsor')
     <!-- Portfolio -->
-    @include('portfolio')
+    {{-- @include('portfolio') --}}
     {{-- About --}}
     @include('about')
     <!-- Contact Section -->
-    @include('contact')
+    {{-- @include('contact') --}}
     <!-- Footer -->
     @include('footer')
 

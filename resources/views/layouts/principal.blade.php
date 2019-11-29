@@ -19,7 +19,7 @@
     <link href="css/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
 
     <!-- Custom styles for this template -->
-    <link href="css/freelancer.css" rel="stylesheet">
+    <link href="css/genyparatria.css" rel="stylesheet">
 </head>
 <body id="page-top">
 
