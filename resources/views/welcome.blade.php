@@ -11,6 +11,14 @@
 
         <!-- Styles -->
         <style>
+            .fa {
+              padding: 20px;
+              font-size: 30px;
+              width: 50px;
+              text-align: center;
+              text-decoration: none;
+              margin: 5px 2px;
+            }            
             html, body {
                 background-color: #fff;
                 color: #636b6f;
@@ -62,6 +70,10 @@
                 margin-bottom: 30px;
             }
         </style>
+        {{-- bootstrap --}}
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
         <div class="flex-center position-ref full-height">
@@ -80,20 +92,19 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
-                    Geny Paratriatlon
+                <div class="title">
+                    <img src="img/GenyParatriatlonTransparente.png" alt="">
                 </div>
-
-                <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                <div class="link">
+                    <a href="https://www.facebook.com/juanmageny" class="fa fa-facebook" target="new"></a>
+                    <a href="http://instagram.com/juanmanuelgeny" class="fa fa-instagram" target="new"></a>
+                    <a href="https://twitter.com/paratriatlon" class="fa fa-twitter" target="new"></a>
+                    <a href="https://linkedin.com/juanmageny" class="fa fa-linkedin"></a>
                 </div>
             </div>
         </div>
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>        
     </body>
 </html>
