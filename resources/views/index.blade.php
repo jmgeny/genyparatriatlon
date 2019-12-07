@@ -17,22 +17,23 @@
 		<div class="row">
 			<div class="col-md-3">
 				<a href="http://mapuchebtt.com/" target="new">
-					<img class="img-fluid" src="{{ Storage::url('sponsor/mapucheBTT.png') }}" alt="">
+					<img class="img-fluid" src="{{ 'img/sponsor/mapucheBTT.png' }}" alt="">
+					{{-- <img class="img-fluid" src="{{ Storage::url('sponsor/mapucheBTT.png') }}" alt=""> --}}
 				</a>
 			</div>
 			<div class="col-md-3">
 				<a href="https://infoenard.org.ar/" target="new">
-					<img class="img-fluid" src="{{ Storage::url('sponsor/enard.png') }}" alt="">
+					<img class="img-fluid" src="{{ 'img/sponsor/enard.png' }}" alt="">
 				</a>
 			</div>
 			<div class="col-md-3">
 				<a href="https://www.facebook.com/pablofajian/" target="new">
-					<img class="img-fluid" src="{{ Storage::url('sponsor/pablofajian.png') }}" alt="">
+					<img class="img-fluid" src="{{ 'img/sponsor/pablofajian.png' }}" alt="">
 				</a>
 			</div>						
 			<div class="col-md-3">
 				<a href="http://www.cornel.com.ar/" target="new">
-					<img class="img-fluid" src="{{ Storage::url('sponsor/cornel.png') }}" alt="">
+					<img class="img-fluid" src="{{ 'img/sponsor/cornel.png' }}" alt="">
 				</a>
 			</div>			
 
