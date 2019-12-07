@@ -53,6 +53,7 @@
 
             .title {
                 font-size: 84px;
+                margin-top: 2rem;
             }
 
             .links > a {
@@ -71,7 +72,7 @@
         </style>
 </head>
 <body>
-        <div class="container flex-center position-ref full-height">
+        <div class="container position-ref full-height">
             @yield('content')
         </div>
 
