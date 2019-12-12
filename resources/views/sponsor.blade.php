@@ -44,13 +44,13 @@
 		{{-- amigos, link a facebok --}}
 		<section class="row justify-content-center shadow sponsor_sec">
 			<div class="col-lg-2 col-sm-3 col-xs-6 sponsor_div">
-				<a href="https://business.facebook.com/club.porteno.bragado/" target="new"><img src="{{ 'img/sponsor/escudoPorteno.jpg' }}" alt="CSyDP" class="img-thumbnail"></a>
+				<a href="https://business.facebook.com/club.porteno.bragado/" target="new"><img src="{{ 'img/sponsor/escudoPorteno.png' }}" alt="CSyDP" class="img-thumbnail"></a>
 			</div>
 			<div class="col-lg-2 col-sm-3 col-xs-6 sponsor_div">
-				<a href="https://www.facebook.com/club.ciclista.bragado/" target="new"><img src="{{ 'img/sponsor/ccb.jpg' }}" alt="CCB" class="img-thumbnail"></a>
+				<a href="https://www.facebook.com/club.ciclista.bragado/" target="new"><img src="{{ 'img/sponsor/ccb.png' }}" alt="CCB" class="img-thumbnail"></a>
 			</div>
  			<div class="col-lg-2 col-sm-3 col-xs-6 sponsor_div">
-				<a href="https://www.facebook.com/JMG-Dise%C3%B1o-y-Desarrollo-107006674048773" target="new"><img src="{{ 'img/sponsor/jmg.jpg' }}" alt="JMDiseño" class="img-thumbnail"></a>
+				<a href="https://www.facebook.com/JMG-Dise%C3%B1o-y-Desarrollo-107006674048773" target="new"><img src="{{ 'img/sponsor/jmg.png' }}" alt="JMDiseño" class="img-thumbnail"></a>
 			</div>
 		</section>
 	</section>
