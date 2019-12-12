@@ -63,5 +63,9 @@
 
             .sponsor_sec {
                 padding: 1rem;
+                /*background-color: #c8c8c8;*/
+            }
+            .sponsor_div {
+                margin-top: 1rem;
             }
         
