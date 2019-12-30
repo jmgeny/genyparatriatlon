@@ -3,7 +3,7 @@
 @section('title', 'Geny')
 
 @section('content')
-<div class="content">
+<div class="index">
 {{-- header --}}
 	@include('header')
 

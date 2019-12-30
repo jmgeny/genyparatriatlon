@@ -47,10 +47,10 @@
 				<a href="https://business.facebook.com/club.porteno.bragado/" target="new"><img src="{{ 'img/sponsor/portenoescudo.png' }}" alt="CSyDP" class="img-thumbnail"></a>
 			</div>
 			<div class="col-lg-2 col-sm-3 col-xs-6 sponsor_div">
-				<a href="https://www.facebook.com/club.ciclista.bragado/" target="new"><img src="{{ 'img/sponsor/clubcb.png' }}" alt="CCB" class="img-thumbnail"></a>
+				<a href="https://www.facebook.com/club.ciclista.bragado/" target="new"><img src="{{ 'img/sponsor/clubcb.png' }}" alt="Club Ciclista Bragado" class="img-thumbnail"></a>
 			</div>
  			<div class="col-lg-2 col-sm-3 col-xs-6 sponsor_div">
-				<a href="https://www.facebook.com/JMG-Dise%C3%B1o-y-Desarrollo-107006674048773" target="new"><img src="{{ 'img/sponsor/juanmg.png' }}" alt="JMDiseño" class="img-thumbnail"></a>
+				<a href="https://www.facebook.com/juanmanuel.geny" target="new"><img src="{{ 'img/sponsor/juanmg.png' }}" alt="Diseño y Desarrollo" class="img-thumbnail"></a>
 			</div>
 		</section>
 	</section>

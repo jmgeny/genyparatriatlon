@@ -14,7 +14,7 @@
 
 </head>
 <body>
-        <div class="container position-ref full-height">
+        <div class="container-fluid position-ref full-height">
             @yield('content')
         </div>
 
