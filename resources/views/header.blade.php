@@ -1,4 +1,4 @@
-<header class="header">
+<header class="cabeza">
 	<div class="title">
 		<img src="img/GenyParatriatlonTransparente.png" alt="">
 	</div>
