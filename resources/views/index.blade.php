@@ -6,8 +6,17 @@
 
 {{-- header --}}
 	@include('header')
+	<hr>
 
-	@include('sponsor')
+{{-- <div class="text-center">
 	
+	<a href="{{ url('/Evento/index') }}" class="btn btn-primary" target="new">Eventos</a>
+	<a href="{{ url('/calendar') }}" class="btn btn-primary" target="new">Calendario</a>
+
+</div> --}}
+	
+	@include('sponsor')
+
+	@include('footer')		
 
 @endsection
