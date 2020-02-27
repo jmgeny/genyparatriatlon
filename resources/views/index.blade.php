@@ -7,7 +7,8 @@
 {{-- header --}}
 	@include('header')
 	<hr>
-
+	
+	@include('listaCarreras')
 {{-- <div class="text-center">
 	
 	<a href="{{ url('/Evento/index') }}" class="btn btn-primary" target="new">Eventos</a>
