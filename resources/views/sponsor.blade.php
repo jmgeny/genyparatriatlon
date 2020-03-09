@@ -48,7 +48,7 @@
 				</a>
 			</div> --}}
 			<div class="col-lg-2 col-sm-3 col-xs-6 sponsor_div">
-				<a href="https://www.facebook.com/club.ciclista.bragado/" target="new"><img src="{{ 'img/sponsor/clubcb.png' }}" alt="Club Ciclista Bragado" class="img-thumbnail"></a>
+				<a href="https://www.facebook.com/club.ciclista.bragado/" target="new"><img src="{{ 'img/sponsor/ccb.png' }}" alt="Club Ciclista Bragado" class="img-thumbnail"></a>
 			</div>
  			<div class="col-lg-2 col-sm-3 col-xs-6 sponsor_div">
 				<a href="https://www.facebook.com/juanmanuel.geny" target="new"><img src="{{ 'img/sponsor/juanmg.png' }}" alt="Diseño y Desarrollo" class="img-thumbnail"></a>
