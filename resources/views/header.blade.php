@@ -9,6 +9,8 @@
 		{{-- <img src="img/GenyParatriatlonTransparente.png" alt="logo"> --}}
 	</div>
 	<div>
+		<h3><p>Soporte Tecnico Informatico</p></h3>
+		<h3><p><i class="fab fa-whatsapp"></i> 11 63215787</p></h3>
 		@include('redes')
 	</div>
 
