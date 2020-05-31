@@ -15,6 +15,17 @@
 
 </head>
 <body>
+	<nav>
+		<div class="row">
+			<div class="col-8">
+				<img src="img/GenyParatriatlonTransparente.png" alt="geny">
+				<img src="img/paratriathlon_logo_onblue.jpg" alt="itu">
+			</div>
+			<div id="redes" class="pull-right col-4">
+				@include('redes')
+			</div>
+		</div>
+	</nav>
         <div class="container-fluid position-ref full-height">
             @yield('content')
         </div>

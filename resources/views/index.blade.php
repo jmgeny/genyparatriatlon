@@ -6,8 +6,9 @@
 
 {{-- header --}}
 	@include('header')
+
 	
-	
+	{{-- @include('noticias') --}}
 	{{-- @include('listaCarreras') --}}
 {{-- <div class="text-center">
 	
