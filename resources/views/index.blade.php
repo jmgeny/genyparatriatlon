@@ -8,7 +8,7 @@
 	@include('header')
 
 	
-	{{-- @include('noticias') --}}
+	@include('noticias')
 	{{-- @include('listaCarreras') --}}
 {{-- <div class="text-center">
 	
