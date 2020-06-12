@@ -15,20 +15,20 @@
 
 </head>
 <body>
-	<nav>
-		<div class="row">
-			<div class="col-8">
-				<img src="img/GenyParatriatlonTransparente.png" alt="geny">
-				<img src="img/paratriathlon_logo_onblue.jpg" alt="itu">
+    <div class="container-fluid position-ref full-height">
+		<nav>
+			<div class="row">
+				<div class="col-8">
+					<img src="img/GenyParatriatlonTransparente.png" alt="geny">
+					<img src="img/paratriathlon_logo_onblue.jpg" alt="itu">
+				</div>
+				<div id="redes" class="pull-right col-4">
+					@include('redes')
+				</div>
 			</div>
-			<div id="redes" class="pull-right col-4">
-				@include('redes')
-			</div>
-		</div>
-	</nav>
-        <div class="container-fluid position-ref full-height">
-            @yield('content')
-        </div>
+		</nav>
+        @yield('content')
+    </div>
 
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

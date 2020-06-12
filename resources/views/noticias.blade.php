@@ -1,5 +1,17 @@
     <!-- Content Row -->
     <div class="row">
+      
+      <div class="col-md-4 mb-5">
+        <div class="card">          
+          <div class="card-body">
+            <blockquote class="embedly-card" data-card-controls="0" data-card-key="f1631a41cb254ca5b035dc5747a5bd75">
+              <h4><a href="https://www.relive.cc/view/vLqeNn1nGRv?r=embed-site">Relive 'Escuela N2'</a></h4>
+            </blockquote>
+            <script async src="https://cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+          </div>
+          </a>
+        </div>
+      </div>
 
       <div class="col-md-4 mb-5">
         <div class="card">
@@ -48,6 +60,5 @@
           </a>
         </div>
       </div>
-
     </div>
 

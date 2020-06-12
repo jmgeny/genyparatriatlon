@@ -85,7 +85,7 @@ header #redes {
     display: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 576px) {
   #redes {
     display: none;
   }
@@ -98,3 +98,18 @@ header #redes {
     display: inline; 
 }
 }
+
+.encabezado {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #d07400;
+  border-radius: 0.3rem;
+  color: #5e0808;
+}
+
+@media (min-width: 576px) {
+  .encabezado {
+    padding: 2rem;
+  }
+}
+
