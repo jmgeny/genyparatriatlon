@@ -1,8 +1,7 @@
 <header class="cabeza">
 	<div class="encabezado">
-		<h1>#QuedateEnCasa</h1>
-		<p class="lead">Si tienes síntomas de COVID-19 llama al 107</p>
-		
+		<img src="img/BDM300.png" alt="bdm" style="max-width: 200px">
+		<h3>#DeBragadoAlMundo</h3>
 		<hr>
 
 		<div id="redes">
