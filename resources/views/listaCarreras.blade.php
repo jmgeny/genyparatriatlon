@@ -6,9 +6,19 @@
         <li class="list-group-item">
           <div class="media">
             <div class="media-body">
-              <img src="img/nym50year.jpg" class="mr-3 float-left" alt="Marathon">
+              <img src="img/nym50year.jpg" class="mr-3 float-left" alt="Marathon" style="max-width: 100px">
               <a href="https://www.nyrr.org/tcsnycmarathon" target="new">TCS NY Marathon 50 year</a>
               <p>7 de Noviembre de 2021</p>
+            </div>
+          </div>
+        </li>
+        <li class="list-group-item">
+          <div class="media">
+            <div class="media-body">
+              <img src="img/ironman.jpg" class="mr-3 float-left" alt="Triatlon" style="max-width: 100px">
+              {{-- <a href="#" target="new">Triatlon</a> --}}
+              <p>!Brag for the rest of your life!</p>
+              <p></p>
             </div>
           </div>
         </li>        
