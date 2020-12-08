@@ -13,6 +13,12 @@
     {{-- styles custom --}}
     <link rel="stylesheet" href="{{ 'css/style_geny.css' }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+  .strava-badge- { display: inline-block; height: 24px; }
+  .strava-badge- img { visibility: hidden; height: 24px; }
+  .strava-badge-:hover { background-position: 0 -37px; }
+  .strava-badge-follow { height: 24px; width: 24px; background: url(//badges.strava.com/echelon-sprite-24.png) no-repeat 0 0; }
+</style>
 
 </head>
 <body>

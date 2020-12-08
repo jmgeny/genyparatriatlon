@@ -16,7 +16,7 @@
 	<a href="{{ url('/calendar') }}" class="btn btn-primary" target="new">Calendario</a>
 
 </div> --}}
-	
+
 	@include('sponsor')
 
 	@include('footer')		
