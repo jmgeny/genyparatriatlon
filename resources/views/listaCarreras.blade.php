@@ -3,8 +3,18 @@
     <div class="col-md-6 offset-md-3">
       {{-- <h5 class="mt-0"><strong>Proxima Carrera</strong></h5> --}}
       <ul class="list-goup">
+         <li class="list-group-item">
+          <div class="media">
+              <iframe id="oak-embed" style="border: 0;" src="https://embed-countdown.onlinealarmkur.com/es/#2021-04-18T00:00:00"></iframe>
+            <div class="media-body">
+              <img src="img/pampatraviesa.jpg" class="mr-3" alt="maraton">
+              <a href="https://www.facebook.com/quesossantamaria/" target="new">Maraton Pampa Traviesa</a>
+            </div>
+          </div>
+        </li> 
         <li class="list-group-item">
           <div class="media">
+              <iframe id="oak-embed" style="border: 0;" src="https://embed-countdown.onlinealarmkur.com/es/#2021-11-07T08:00:00"></iframe>
             <div class="media-body">
               <img src="img/nym50year.jpg" class="mr-3 float-left" alt="Marathon" style="max-width: 100px">
               <a href="https://www.nyrr.org/tcsnycmarathon" target="new">TCS NY Marathon 50 year</a>
@@ -12,24 +22,6 @@
             </div>
           </div>
         </li>
-        <li class="list-group-item">
-          <div class="media">
-            <div class="media-body">
-              <img src="img/ironman.jpg" class="mr-3 float-left" alt="Triatlon" style="max-width: 100px">
-              {{-- <a href="#" target="new">Triatlon</a> --}}
-              <p>!Brag for the rest of your life!</p>
-              <p></p>
-            </div>
-          </div>
-        </li>        
-{{--         <li class="list-group-item">
-          <div class="media">
-            <div class="media-body">
-              <img src="img/quesos.png" class="mr-3" alt="maraton">
-              <a href="https://www.facebook.com/quesossantamaria/" target="new">Maraton del Queso - Cancelada 2020</a>
-            </div>
-          </div>
-        </li> --}}
 {{--         <li class="list-group-item">
           <div class="media">
             <div class="media-body">
